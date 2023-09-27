@@ -74,7 +74,7 @@ var landsatSR = function(options) {
         'shadow': [3,3], 
         'snow': [4,4]
       }),
-    band: 'pixel_qa'}
+    band: 'QA_PIXEL'}
             
   // Parameters
   var opt = options || sr.bits.keys();
